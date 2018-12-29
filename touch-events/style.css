@@ -1,0 +1,14 @@
+#canvas {
+  border: 1px solid yellowgreen;
+  margin-bottom: 0;
+  display: block;
+}
+
+#btn {
+  margin: 20px 100px;
+}
+
+.log-wrapper {
+  margin: 30px;
+  border: 1px solid #ccc;
+}
